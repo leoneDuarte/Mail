@@ -1170,7 +1170,7 @@ class Imap extends Base
                 }
 
                 //break out of this loop
-                break;
+               // break;
             }
 
             //so at this point we are getting raw data
